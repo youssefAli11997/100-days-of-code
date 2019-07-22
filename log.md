@@ -11,14 +11,18 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 2: July 20, Saturday
+### Day 2: July 21, Sunday
 
 **Today's Progress**: I've completed 30 exercises from 'Javascript Algorithms And Data Structures Certification' on FreeCodeCamp. I've also completed chapter 6 'Breadth First Search' of Grokking Algorithms book
 
-**Thoughts** I've refreshed my knowledge and learned new stuff. It was really interesting!
+<!--**Thoughts** I've refreshed my knowledge and learned new stuff. It was really interesting!-->
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
+
+### Day 3: July 22, Monday
+
+**Today's Progress**: I've completed 40 exercises from 'Javascript Algorithms And Data Structures Certification' on FreeCodeCamp. I've also read about MVVM design pattern

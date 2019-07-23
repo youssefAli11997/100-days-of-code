@@ -28,4 +28,7 @@
 
 ### Day 4: July 23, Tuesday
 
-**Today's Progress**: I've solved three challenges from CodeSignal (formerly known as CodeFights) online judge
+**Today's Progress**: I've solved three challenges from CodeSignal (formerly known as CodeFights) online judge and completed Big Data and Hadoop Essentials course from Udemy
+
+**Link(s) to work**
+[Udemy Certificate] (https://www.udemy.com/certificate/UC-F3I4G6S6/)

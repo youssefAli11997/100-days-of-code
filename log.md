@@ -22,7 +22,10 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-
 ### Day 3: July 22, Monday
 
 **Today's Progress**: I've completed 40 exercises from 'Javascript Algorithms And Data Structures Certification' on FreeCodeCamp. I've also read about MVVM design pattern
+
+### Day 4: July 23, Tuesday
+
+**Today's Progress**: I've solved three challenges from CodeSignal (formerly known as CodeFights) online judge
